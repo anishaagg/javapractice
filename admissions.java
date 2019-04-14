@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class hw4 {
+public class admissions {
 
 	public static void intro () {
 		//into to the program for comparing 2 applicants

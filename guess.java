@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class hw5 {
+public class guess {
 	
 	//method to introduces the game to the user
 	public static void intro () {

@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Scanner;
 import java.awt.*;
 
-public class hw6 {
+public class babyNames {
 
 	//statement of what program does
 	public static void intro () {
