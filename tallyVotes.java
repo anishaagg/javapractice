@@ -33,7 +33,7 @@ public class tallyVotes {
 		String strVotes = "MOOOOOOMMMMMOOOOOOMOMMIMOMMIMOMMIO";
 
 		int[] votes = tally(strVotes);
-		System.out.println("Votes: " + Arrays.toString(votes));
+		System.out.println("Votes: " + rmArrays.toString(votes));
 
 
 	}
